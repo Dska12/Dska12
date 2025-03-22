@@ -29,9 +29,8 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dska12/Dska12/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
