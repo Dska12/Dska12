@@ -9,7 +9,7 @@ Soy un entusiasta de la programación que está aprendiendo y explorando nuevas 
 
 
 ## 🌍 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]((https://www.linkedin.com/in/diego-rg/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/diego-rg/) 
 
 
 
